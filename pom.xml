@@ -12,7 +12,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <module>Microservice-OAuth2-WebApp</module>
     </modules>
 
-    <name>microservice-oauth2 Maven Webapp</name>
+    <name>Microservice-OAuth2</name>
     <url>http://maven.apache.org</url>
 
     <dependencies>

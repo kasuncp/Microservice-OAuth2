@@ -18,6 +18,7 @@
 
     <dependencies>
         <dependency>
+            <!-- Spring -->
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
             <version>${springframework.version}</version>
@@ -44,6 +45,13 @@
             <artifactId>spring-security-config</artifactId>
             <version>${springsecurity.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.4</version>
+        </dependency>
+
     </dependencies>
 
 
